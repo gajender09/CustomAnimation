@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/background_with_radius.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#FFFFFF"/> <!-- Change the color as needed -->
+        <corners android:radius="18dp"/> <!-- Adjust the radius as needed -->
+    </shape>
+
+</selector>
